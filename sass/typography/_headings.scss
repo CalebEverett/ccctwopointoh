@@ -1,0 +1,21 @@
+h1, h2, h3, h4, h5, h6 {
+	clear: right;
+}
+
+h1 {
+	font-family: "adelle",serif;
+	font-weight: 600;
+	color: darken($color__ccc-blue,5%);
+	font-size: 175%;
+}
+
+h2 {
+	color: $color__ccc-blue;
+	font-size: 150%;
+	font-weight: 100;
+}
+
+h3 {
+	font-size: 120%;
+	font-weight: 100;
+}

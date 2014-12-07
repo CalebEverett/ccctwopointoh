@@ -1,0 +1,31 @@
+{
+  "name": "ccctwopointoh",
+  "version": "0.0.1",
+  "description": "New theme for Career College of California website",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Caleb Everett",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-browserify": "^0.5.0",
+    "gulp-compass": "^1.3.1",
+    "gulp-concat": "^2.4.1",
+    "gulp-connect": "^2.0.6",
+    "gulp-if": "^1.2.4",
+    "gulp-imagemin": "^1.0.1",
+    "gulp-jsonminify": "0.0.1",
+    "gulp-livereload": "^2.1.1",
+    "gulp-uglify": "^1.0.1",
+    "gulp-util": "^3.0.1",
+    "gulp-webserver": "^0.8.2",
+    "imagemin-pngcrush": "^1.0.0",
+    "jquery": "^2.1.1",
+    "tiny-lr": "^0.1.4"
+  },
+  "dependencies": {
+    "font-awesome": "^4.2.0"
+  }
+}
